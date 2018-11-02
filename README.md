@@ -1,9 +1,14 @@
 # Staircase-Pose-Estimation
 Detection of Staircases from the scene and estimating the pose of it for navigation of MAVs.
 
+Commands to follow:
+
 mkdir build
+
 cd build
+
 cmake ..
+
 make
 
 run the command:
